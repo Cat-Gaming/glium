@@ -19,7 +19,7 @@ Its objectives:
 keywords = ["opengl", "gamedev"]
 categories = ["api-bindings", "rendering::graphics-api"]
 documentation = "https://docs.rs/glium"
-repository = "https://github.com/glium/glium"
+repository = "https://github.com/Cat-Gaming/glium"
 readme = "README.md"
 license = "Apache-2.0"
 build = "build/main.rs"
