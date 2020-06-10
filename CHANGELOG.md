@@ -1,5 +1,8 @@
 # Change Log
 
+## Version 0.25.1 (2020-06-09)
+- fixed Method not found in `backend`
+
 ## Version 0.25.1 (2019-07-08)
 
 - Silenced deprecation warning when invoking `implement_vertex`.
